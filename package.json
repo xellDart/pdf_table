@@ -1,11 +1,11 @@
 {
-  "name": "pdf-table-extractor",
-  "version": "1.0.3",
+  "name": "pdf-table-extractor-buffer",
+  "version": "0.0.1",
   "description": "Extract tables from PDF file",
   "scripts": {
     "test": "node test.js"
   },
-  "author": "Ronny Wang",
+  "author": "Ronny Wang - xellDART",
   "license": "BSD-3-Clause",
   "keywords": [
     "pdfjs",
