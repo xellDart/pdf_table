@@ -1,6 +1,6 @@
 {
   "name": "pdf-table-extractor-buffer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extract tables from PDF file",
   "scripts": {
     "test": "node test.js"
